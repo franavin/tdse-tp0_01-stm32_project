@@ -1,5 +1,0 @@
-Parámetro			Valor Inicial(Reset)	Valor en while(1)
-SystemCoreClock	    		16 MHz		   	84 MHz
-HCLK (AHB)	    		16 MHz		   	84 MHz
-SysTick(Interrupción)		1 kHz (tras HAL_Init)	1 kHz (recalibrado)
-Frecuencia de conteo SysTick	16,000 ticks/ms		84,000 ticks/ms
